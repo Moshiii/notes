@@ -1,0 +1,18 @@
+the input contains multiple sentences,acturally the batch size.
+we do not have embedding ,but the embedding is usually learned during training
+
+https://towardsdatascience.com/sequence-to-sequence-model-introduction-and-concepts-44d9b41cd42d
+
+// things to write about the model:
+// seq to seq model
+sequence to sequecnce model is commonly used in machine translation tasks. 
+seq2 seq model has  
+//lstm unit
+// what layers in the model
+//whats the configuration
+//what is lstm
+//what preprocessing we have 
+///graphs 
+//graph from the keras
+//graph i draw
+
